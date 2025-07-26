@@ -1,10 +1,8 @@
-# Create a basic README.md file for GitHub
-readme_text = """
 # Quantitative Simulation of BSE Ltd. (Bombay Stock Exchange)
 
 This project combines equity research with quantitative finance techniques and Python-based modeling to simulate and analyze BSE Ltd.'s stock price behavior using historical and derivative market data.
 
-## 📘 Contents
+## Contents
 
 - **Monte Carlo Simulation** using Geometric Brownian Motion
 - **Black-Scholes Model** for European option pricing
@@ -13,7 +11,7 @@ This project combines equity research with quantitative finance techniques and P
 - **Visualization** of price paths, histograms, and technical signals
 - **Exported Report PDF** for academic submission
 
-## 📊 Libraries Used
+## Libraries Used
 
 - `numpy`, `pandas` – numerical & data analysis
 - `matplotlib`, `seaborn` – plotting
@@ -21,20 +19,21 @@ This project combines equity research with quantitative finance techniques and P
 - `scipy.stats` – statistical calculations
 - `yfinance` – historical data (optional)
 
-## 📁 Files
+## Files
 
 - `BSE_Quantitative_Analysis.ipynb` – main Jupyter Notebook
 - `BSE_Quantitative_Analysis.pdf` – printable report version
 - `BSE_MonteCarlo_Summary.csv` – simulated outcome statistics
 - `README.md` – this file
 
-## 🧪 Purpose
+## Purpose
 
 This project is created as part of a B.Tech academic submission to blend finance and technology using Python. It demonstrates how financial data can be transformed into actionable insight through simulation and modeling.
 
-## ⚠️ Disclaimer
+## Disclaimer
 
-All data used is for educational purposes. No investment advice is provided.
+All data used is for educational purposes. No investment advice is provided. This report is intended purely for educational purposes.
+All data presented in this report has been sourced from publicly available data as of 08/07/2025, information on the National Stock Exchange of India Ltd (NSE) website: 🔗 https://www.nseindia.com/get-quotes/equity?symbol=BSE
 
 ---
 
