@@ -9,7 +9,6 @@ This project combines equity research with quantitative finance techniques and P
 - **Technical Indicators**: EMA (20/50/100), RSI, MACD, Bollinger Bands
 - **Linear Regression** on EPS vs Stock Price for valuation forecasting
 - **Visualization** of price paths, histograms, and technical signals
-- **Exported Report PDF** for academic submission
 
 ## Libraries Used
 
@@ -17,18 +16,17 @@ This project combines equity research with quantitative finance techniques and P
 - `matplotlib`, `seaborn` – plotting
 - `scikit-learn` – regression modeling
 - `scipy.stats` – statistical calculations
-- `yfinance` – historical data (optional)
+- `yfinance` – historical data
 
 ## Files
 
 - `BSE_Quantitative_Analysis.ipynb` – main Jupyter Notebook
 - `BSE_Quantitative_Analysis.pdf` – printable report version
 - `BSE_MonteCarlo_Summary.csv` – simulated outcome statistics
-- `README.md` – this file
 
 ## Purpose
 
-This project is created as part of a B.Tech academic submission to blend finance and technology using Python. It demonstrates how financial data can be transformed into actionable insight through simulation and modeling.
+This project is created as part of academic blend finance and technology using Python. It demonstrates how financial data can be transformed into actionable insight through simulation and modeling.
 
 ## Disclaimer
 
