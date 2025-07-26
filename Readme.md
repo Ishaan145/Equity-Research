@@ -39,11 +39,3 @@ All data presented in this report has been sourced from publicly available data 
 
 **Author**: Ishaan Saxena  
 **Date**: July 2025  
-"""
-
-# Save the README to a file
-readme_path = "/mnt/data/README.md"
-with open(readme_path, "w") as f:
-    f.write(readme_text)
-
-readme_path
