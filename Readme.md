@@ -17,6 +17,7 @@ This project combines equity research with quantitative finance techniques and P
 - `scikit-learn` – regression modeling
 - `scipy.stats` – statistical calculations
 - `yfinance` – historical data
+- Check out derivative data: [View Option Data](https://ishaan145.github.io/Equity-Research/Main/Derivative/Data/Option_data.html)
 
 ## Files
 
@@ -32,7 +33,6 @@ This project is created as part of academic blend finance and technology using P
 
 All data used is for educational purposes. No investment advice is provided. This report is intended purely for educational purposes.
 All data presented in this report has been sourced from publicly available data as of 08/07/2025, information on the National Stock Exchange of India Ltd (NSE) website: 🔗 https://www.nseindia.com/get-quotes/equity?symbol=BSE
-Check out the live data visualization: [View Option Data](https://ishaan145.github.io/Equity-Research/Main/Derivative/Data/Option_data.html)
 ---
 
 **Author**: Ishaan Saxena  
