@@ -17,13 +17,13 @@ This project combines equity research with quantitative finance techniques and P
 - `scikit-learn` – regression modeling
 - `scipy.stats` – statistical calculations
 - `yfinance` – historical data
-- Check out derivative data: [View Option Data](https://ishaan145.github.io/Equity-Research/Main/Derivative/Data/Option_data.html)
 
 ## Files
 
 - `BSE_Quantitative_Analysis.ipynb` – main Jupyter Notebook
 - `BSE_Quantitative_Analysis.pdf` – printable report version
 - `BSE_MonteCarlo_Summary.csv` – simulated outcome statistics
+- `BSE_Derivative_data.csv` –  [View Option Data](https://ishaan145.github.io/Equity-Research/Main/Derivative/Data/Option_data.html)
 
 ## Purpose
 
