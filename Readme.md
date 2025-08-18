@@ -27,6 +27,7 @@ Purpose of this report is to Elevating Traditional Stock Analysis with Advanced 
 - `BSE_Quantitative_Analysis.pdf` – printable report version
 - `BSE_MonteCarlo_Summary.csv` – simulated outcome statistics
 - `BSE_Derivative_data.csv` –  [View Option Data](https://ishaan145.github.io/Equity-Research/Main/Derivative/Data/Option_data.html)
+- [`BSE_Derivative_data.csv`](https://ishaan145.github.io/Equity-Research/Main/Derivative/Data/BSE_Derivative_data.pdf)
 
 
 ## Disclaimer
@@ -36,12 +37,13 @@ All data presented in this report has been sourced from publicly available data 
 ---
 
 **Author**: Ishaan Saxena  
-**Release**: August 2025  
+**Release**: You can view the project documentation by downloading the [**Project Report**](https://ishaan145.github.io/Equity-Research/Main/Derivative/Data/BSE_Derivative_data.pdf).  
+**Released On** August 2025
 
-##Overview
+## Overview
 
 The primary objective of this report is to demonstrate how a foundational stock analysis, such as the comprehensive research on BSE Ltd. provided, can be significantly enhanced through the integration of advanced quantitative techniques and computational tools, particularly Python. While fundamental and technical analyses offer indispensable insights into a company's intrinsic value and market sentiment, quantitative methods introduce layers of statistical rigor, predictive modeling, and sophisticated risk assessment. These advanced approaches are increasingly vital in navigating the complexities of modern financial markets, providing a more robust and data-driven perspective for investment decisions. This report aims to bridge the gap between conventional financial research and cutting-edge analytical capabilities.
 
-##Structure
+## Structure
 
 This report is structured to provide a comprehensive and integrated assessment of BSE Ltd. It commences with a review of the existing fundamental and technical analyses, building upon the initial research provided. Subsequently, it introduces a layer of quantitative enhancements, detailing how Python-based methodologies can be applied to deepen the understanding of stock behavior and market dynamics. The analytical approach emphasizes the synthesis of observations from all these layers fundamental, technical, and quantitative to deliver a holistic and robust evaluation of BSE Ltd.'s investment profile and future outlook.
