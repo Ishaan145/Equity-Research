@@ -32,7 +32,7 @@ This project is created as part of academic blend finance and technology using P
 ## Disclaimer
 
 All data used is for educational purposes. No investment advice is provided. This report is intended purely for educational purposes.
-All data presented in this report has been sourced from publicly available data as of 08/07/2025, information on the National Stock Exchange of India Ltd (NSE) website: 🔗 https://www.nseindia.com/get-quotes/equity?symbol=BSE
+All data presented in this report has been sourced from publicly available data as of 08/07/2025, information on the National Stock Exchange of India Ltd (NSE) website: [🔗 https://www.nseindia.com/get-quotes/equity?symbol=BSE](https://www.nseindia.com/get-quotes/equity?symbol=BSE)
 ---
 
 **Author**: Ishaan Saxena  
