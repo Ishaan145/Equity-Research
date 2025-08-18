@@ -1,6 +1,6 @@
 # Quantitative Research Report on Stock Analysis with Case Study on BSE Ltd (BSE-EQ)
 <p align="justify">
-This project combines equity research with quantitative finance techniques and Python-based modeling to simulate and analyze BSE Ltd.'s stock price behavior using historical and derivative market data.
+This project combines equity research with quantitative finance techniques and Python based modeling to simulate and analyze BSE Ltd.'s stock price behavior using historical and derivative market data.
 Purpose of this report is to Elevating Traditional Stock Analysis with Advanced Quantitative Methods and Python. This project is created as part of academic blend finance and technology using Python. It demonstrates how financial data can be transformed into actionable insight through simulation and modeling.
 </p>
 
@@ -33,8 +33,9 @@ Purpose of this report is to Elevating Traditional Stock Analysis with Advanced 
 ## Disclaimer
 <p align="justify">
 All data used is for educational purposes. No investment advice is provided. This report is intended purely for educational purposes.
-All data presented in this report has been sourced from publicly available data as of 08/07/2025, information on the National Stock Exchange of India Ltd (NSE) website: [🔗 https://www.nseindia.com/get-quotes/equity?symbol=BSE](https://www.nseindia.com/get-quotes/equity?symbol=BSE)
+All data presented in this report has been sourced from publicly available data as of 08/07/2025, information on the National Stock Exchange of India Ltd (NSE)
 </p>
+website:[https://www.nseindia.com/get-quotes/equity?symbol=BSE](https://www.nseindia.com/get-quotes/equity?symbol=BSE)
 ---
 
 **Author**: Ishaan Saxena  
