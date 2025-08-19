@@ -4,6 +4,16 @@ This project combines equity research with quantitative finance techniques and P
 Purpose of this report is to Elevating Traditional Stock Analysis with Advanced Quantitative Methods and Python. This project is created as part of academic blend finance and technology using Python. It demonstrates how financial data can be transformed into actionable insight through simulation and modeling.
 </p>
 
+## Overview
+<p align="justify">
+The primary objective of this report is to demonstrate how a foundational stock analysis, such as the comprehensive research on BSE Ltd. provided, can be significantly enhanced through the integration of advanced quantitative techniques and computational tools, particularly Python. While fundamental and technical analyses offer indispensable insights into a company's intrinsic value and market sentiment, quantitative methods introduce layers of statistical rigor, predictive modeling, and sophisticated risk assessment. These advanced approaches are increasingly vital in navigating the complexities of modern financial markets, providing a more robust and data-driven perspective for investment decisions. This report aims to bridge the gap between conventional financial research and cutting-edge analytical capabilities.
+</p>
+
+## Report Structure
+<p align="justify">
+This report is structured to provide a comprehensive and integrated assessment of BSE Ltd. It commences with a review of the existing fundamental and technical analyses, building upon the initial research provided. Subsequently, it introduces a layer of quantitative enhancements, detailing how Python-based methodologies can be applied to deepen the understanding of stock behavior and market dynamics. The analytical approach emphasizes the synthesis of observations from all these layers fundamental, technical, and quantitative to deliver a holistic and robust evaluation of BSE Ltd.'s investment profile and future outlook.
+</p>
+
 ## Contents
 
 - **Fundamentals & Financials** Business, Pe/Pb, Dividend, Comparison 
@@ -28,27 +38,6 @@ Purpose of this report is to Elevating Traditional Stock Analysis with Advanced 
 - [`BSE_Derivative_data.csv`](https://ishaan145.github.io/Equity-Research/Main/Derivative/Data/BSE_Derivative_data.csv) – printable report version
 - [`BSE_Derivative_data.csv`](https://ishaan145.github.io/Equity-Research/Main/Derivative/Data/BSE_Derivative_data.csv) – simulated outcome statistics
 - [`BSE_Derivative_data.csv`](https://ishaan145.github.io/Equity-Research/Main/Derivative/Data/BSE_Derivative_data.csv) –  [View Option Data](https://ishaan145.github.io/Equity-Research/Main/Derivative/Data/Option_data.html)
-
-## Disclaimer
-<p align="justify">
-All data used is for educational purposes. No investment advice is provided. This report is intended purely for educational purposes.
-All data presented in this report has been sourced from publicly available data as of 08/07/2025, information on the National Stock Exchange of India Ltd (NSE) website: https://www.nseindia.com/get-quotes/equity?symbol=BSE 
-</p>
----
-
-**Author**: Ishaan Saxena  
-**Release**: You can view the project document by downloading the [**Project Report**](https://ishaan145.github.io/Equity-Research/Main/Derivative/Data/BSE_Derivative_data.pdf).  
-**Released On** August 2025
-
-## Overview
-<p align="justify">
-The primary objective of this report is to demonstrate how a foundational stock analysis, such as the comprehensive research on BSE Ltd. provided, can be significantly enhanced through the integration of advanced quantitative techniques and computational tools, particularly Python. While fundamental and technical analyses offer indispensable insights into a company's intrinsic value and market sentiment, quantitative methods introduce layers of statistical rigor, predictive modeling, and sophisticated risk assessment. These advanced approaches are increasingly vital in navigating the complexities of modern financial markets, providing a more robust and data-driven perspective for investment decisions. This report aims to bridge the gap between conventional financial research and cutting-edge analytical capabilities.
-</p>
-
-## Structure
-<p align="justify">
-This report is structured to provide a comprehensive and integrated assessment of BSE Ltd. It commences with a review of the existing fundamental and technical analyses, building upon the initial research provided. Subsequently, it introduces a layer of quantitative enhancements, detailing how Python-based methodologies can be applied to deepen the understanding of stock behavior and market dynamics. The analytical approach emphasizes the synthesis of observations from all these layers fundamental, technical, and quantitative to deliver a holistic and robust evaluation of BSE Ltd.'s investment profile and future outlook.
-</p>
 
 ##  Simulation Parameters
 **Simulation Parameters:**
@@ -113,8 +102,6 @@ BSE-Stock-Analysis/
 - **Option Chain**: Real-time derivative market data
 - **Financial Statements**: Public filings and quarterly reports
 
----
-
 ##  Disclaimer
 <p align="justify">
 All data used is for educational purposes. No investment advice is provided. This report is intended purely for educational purposes.The quantitative models and simulations presented are based on historical data and mathematical assumptions that may not accurately predict future market behavior. All data presented in this report has been sourced from publicly available data as of July 8, 2025, information on the National Stock Exchange of India Ltd (NSE) website: https://www.nseindia.com/get-quotes/equity?symbol=BSE 
@@ -136,9 +123,6 @@ All data used is for educational purposes. No investment advice is provided. Thi
     <a href="https://github.com/ishaan145"> GitHub</a>
   </p>
 </div>
-
----
-
 
 <div align="center">
   <p><strong><a href="https://github.com/Ishaan145/Equity-Research/">You can view the project document by downloading the Project Report</a></strong></p>
