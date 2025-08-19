@@ -107,10 +107,9 @@ BSE-Stock-Analysis/
 All data used is for educational purposes. No investment advice is provided. This report is intended purely for educational purposes.The quantitative models and simulations presented are based on historical data and mathematical assumptions that may not accurately predict future market behavior. All data presented in this report has been sourced from publicly available data as of July 8, 2025, information on the National Stock Exchange of India Ltd (NSE) website: https://www.nseindia.com/get-quotes/equity?symbol=BSE 
 </p>
 
----
+## Contact
 
 <div>
-  <h3>Contact</h3>
   <p>
     <strong>Author:</strong> Ishaan Saxena<br>
     <strong>Release Date:</strong> August 2025<br>
