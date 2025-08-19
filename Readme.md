@@ -29,7 +29,7 @@ Purpose of this report is to Elevating Traditional Stock Analysis with Advanced 
 - [`BSE_Derivative_data.csv`](https://ishaan145.github.io/Equity-Research/Main/Derivative/Data/BSE_Derivative_data.csv) – simulated outcome statistics
 - [`BSE_Derivative_data.csv`](https://ishaan145.github.io/Equity-Research/Main/Derivative/Data/BSE_Derivative_data.csv) –  [View Option Data](https://ishaan145.github.io/Equity-Research/Main/Derivative/Data/Option_data.html)
 
-<h3 style="color:#4285F4;">Disclaimer</h3>
+<h3 style="color:#4285F4;">##Disclaimer</h3>
 ## Disclaimer
 <p align="justify">
 All data used is for educational purposes. No investment advice is provided. This report is intended purely for educational purposes.
