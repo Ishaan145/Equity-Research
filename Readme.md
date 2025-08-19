@@ -109,7 +109,7 @@ All data used is for educational purposes. No investment advice is provided. Thi
 
 ---
 
-<div align="center">
+<div>
   <h3>Contact</h3>
   <p>
     <strong>Author:</strong> Ishaan Saxena<br>
@@ -124,7 +124,7 @@ All data used is for educational purposes. No investment advice is provided. Thi
   </p>
 </div>
 
-<div align="center">
+<div>
   <p><strong><a href="https://github.com/Ishaan145/Equity-Research/">You can view the project document by downloading the Project Report</a></strong></p>
    <p><strong><a href="https://ishaan145.github.io/Equity-Research/Main/Derivative/Data/BSE_Derivative_data.pdf">Access Complete Interactive Report Repo</a></strong></p>
 </div>
