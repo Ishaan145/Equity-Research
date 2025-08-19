@@ -33,9 +33,8 @@ Purpose of this report is to Elevating Traditional Stock Analysis with Advanced 
 ## Disclaimer
 <p align="justify">
 All data used is for educational purposes. No investment advice is provided. This report is intended purely for educational purposes.
-All data presented in this report has been sourced from publicly available data as of 08/07/2025, information on the National Stock Exchange of India Ltd (NSE) website:[https://www.nseindia.com/get-quotes/equity?symbol=BSE](https://www.nseindia.com/get-quotes/equity?symbol=BSE).[**Project Report**](https://ishaan145.github.io/Equity-Research/Main/Derivative/Data/BSE_Derivative_data.pdf).  
+All data presented in this report has been sourced from publicly available data as of 08/07/2025, information on the National Stock Exchange of India Ltd (NSE) website: [**https://www.nseindia.com/get-quotes/equity?symbol=BSE**](https://www.nseindia.com/get-quotes/equity?symbol=BSE).  
 </p>
-[**Project Report**](https://ishaan145.github.io/Equity-Research/Main/Derivative/Data/BSE_Derivative_data.pdf).  
 ---
 
 **Author**: Ishaan Saxena  
