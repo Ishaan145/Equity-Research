@@ -29,7 +29,7 @@ Purpose of this report is to Elevating Traditional Stock Analysis with Advanced 
 - [`BSE_Derivative_data.csv`](https://ishaan145.github.io/Equity-Research/Main/Derivative/Data/BSE_Derivative_data.csv) – simulated outcome statistics
 - [`BSE_Derivative_data.csv`](https://ishaan145.github.io/Equity-Research/Main/Derivative/Data/BSE_Derivative_data.csv) –  [View Option Data](https://ishaan145.github.io/Equity-Research/Main/Derivative/Data/Option_data.html)
 
-
+<h3 style="color:#4285F4;">Disclaimer</h3>
 ## Disclaimer
 <p align="justify">
 All data used is for educational purposes. No investment advice is provided. This report is intended purely for educational purposes.
@@ -50,3 +50,5 @@ The primary objective of this report is to demonstrate how a foundational stock 
 <p align="justify">
 This report is structured to provide a comprehensive and integrated assessment of BSE Ltd. It commences with a review of the existing fundamental and technical analyses, building upon the initial research provided. Subsequently, it introduces a layer of quantitative enhancements, detailing how Python-based methodologies can be applied to deepen the understanding of stock behavior and market dynamics. The analytical approach emphasizes the synthesis of observations from all these layers fundamental, technical, and quantitative to deliver a holistic and robust evaluation of BSE Ltd.'s investment profile and future outlook.
 </p>
+
+
