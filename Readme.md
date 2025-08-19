@@ -51,7 +51,8 @@ This report is structured to provide a comprehensive and integrated assessment o
 </p>
 
 ##  Simulation Parameters
-
+**Simulation Parameters:**
+```python
 S0 = 2376.30      (Current stock price)
 mu = 0.12         (Expected annual return)
 sigma = 0.45      (Annual volatility)
